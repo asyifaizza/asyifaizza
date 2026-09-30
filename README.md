@@ -8,18 +8,6 @@
 
 ---
 
-## 💻 github activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asyifaizza&show_icons=true&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyifaizza&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ## 🌷 currently
 
 🔭 working on my thesis  
