@@ -3,16 +3,20 @@
 🎓 CS & Statistics student @ BINUS University  
 📊 interested in data, analytics & machine learning  
 🐍 python · r · sql  
-☁️ currently exploring data engineering & web development  
+☁️ currently exploring data analytics & business analytics  
 🌱 building projects, learning new things, figuring it out along the way
 
 ---
 
 ## 💻 github activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyifaizza&show_icons=true&hide_border=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asyifaizza&show_icons=true&hide_border=true&theme=default" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyifaizza&layout=compact&hide_border=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyifaizza&layout=compact&hide_border=true&theme=default" />
+</p>
 
 ---
 
