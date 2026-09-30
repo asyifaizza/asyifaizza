@@ -1,10 +1,10 @@
 # hi, i'm izza! ♡
 
-🎓 CS & Statistics student @ BINUS University  
-📊 interested in data, analytics & machine learning  
-🐍 python · r · sql  
-☁️ currently exploring data analytics & business analytics  
-🌱 building projects, learning new things, figuring it out along the way
+🎓 studying Compyter Science & Statistics @ BINUS  
+📈 making sense of data, one dataset at a time  
+🐍 mostly Python, R & SQL  
+🧩 currently figuring out what kind of data girl i want to be  
+🌷 collecting projects, lessons, and a few questionable coding decisions
 
 ---
 
