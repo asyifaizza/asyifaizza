@@ -1,6 +1,6 @@
 # hi, i'm izza! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-🎓 studying Computer Science & Statistics @ BINUS University
+🎓 studying Computer Science & Statistics @ BINUS University  
 📈 making sense of data, one dataset at a time  
 🧩 currently figuring out what kind of data girl i want to be  
 🌷 collecting projects, lessons, and a few questionable coding decisions
