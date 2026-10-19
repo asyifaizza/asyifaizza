@@ -3,8 +3,8 @@
 🎓 studying Computer Science & Statistics @ BINUS University  
 📈 making sense of data, one dataset at a time  
 🧩 currently figuring out what kind of data girl i want to be  
-🌷 collecting projects, lessons, and a few questionable coding decisions
-🌐 Explore the portfolio at issathing.vercel.app.
+🌷 collecting projects, lessons, and a few questionable coding decisions  
+🌐 Explore the portfolio at https://issathing.vercel.app/
 
 
 ## 🌐 find me here:
